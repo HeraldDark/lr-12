@@ -1,1 +1,2 @@
 newfile1
+New branch content
